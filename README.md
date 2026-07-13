@@ -14,9 +14,9 @@
 
 ## 🏴‍☠️ CONTEXTO E OBJETIVOS
 
-**Objetivo central do teste:** Entender funcionamento do Notebook LM enquanto crio um repositório confiavel de todas as tretas cabulosas do One Piece e entrego o projeto do Bootcamp Corpay 😬
+🏴‍☠️ **Objetivo central do teste:** Entender o uso prático do Notebook LM enquanto crio um repositório confiavel de todas as tretas cabulosas do One Piece e entrego o projeto do Bootcamp Corpay.
 
-**Ideação** : Validação de Plot Twists (Reviravoltas) em One Piece** - Diário de Bordo temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
+🏴‍☠️ **Ideação** : Validação de Plot Twists (Reviravoltas) em One Piece** - Diário de Bordo temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
 
 ### Assunto de Interesse
 **Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
