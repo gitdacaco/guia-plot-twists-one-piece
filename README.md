@@ -15,9 +15,9 @@
 ## 🏴‍☠️ CONTEXTO E OBJETIVOS
 
 ### Assunto de Interesse
-**Plot Twists (Reviravoltas) em One Piece** - Uma análise documentada das reviravoltas presentes no mangá, com base APENAS no conteúdo oficial da obra.
+**Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá oficial.
 
-### Objetivos de Estudo
+### Objetivos do Caderno Temático
 1. Catalogar os principais plot twists que acontecem no mangá de One Piece
 2. Registrar em quais capítulos e arcos eles ocorrem
 3. Documentar as pistas (foreshadowing) que o autor deixou na própria obra
@@ -28,94 +28,98 @@
 
 ## 🛡️ CURADORIA DE FONTES
 
-**Todas as fontes são oficiais e baseadas no mangá:**
+**Todas as fontes adicionadas ao Notebook LM são oficiais, gratuitas e focadas no mangá:**
 
-| # | Fonte | Tipo | Descrição |
-|---|-------|------|-----------|
-| 1 | **One Piece - Mangá** | Fonte Primária | Capítulos 1 ao atual - fonte primária de todos os eventos |
-| 2 | **SBS (Shitsumon o Boshū Suru)** | Material Oficial | Seção de perguntas e respostas do autor nos volumes do mangá |
-| 3 | **One Piece Magazine** | Publicação Oficial | Revista oficial com informações complementares validadas por Oda |
-| 4 | **Vivre Cards** | Material Oficial | Cards oficiais com dados dos personagens, aprovados pelo autor |
-| 5 | **Databooks oficiais** | Material Oficial | Livros de dados publicados oficialmente (One Piece Green, Blue, Yellow, etc.) |
+| # | Fonte | Link | Tipo | Conteúdo |
+|---|-------|------|------|----------|
+| 1 | **MANGA Plus by SHUEISHA** | https://mangaplus.shueisha.co.jp/updates | Site Oficial | Leitura oficial dos capítulos de One Piece em português. **Fonte primária do mangá.** |
+| 2 | **MANGA Plus App** | https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus | Aplicativo Oficial | Versão mobile gratuita com atualização simultânea com o Japão. |
+| 3 | **Viz Media / Shonen Jump** | https://www.viz.com/shonenjump/ | Site Oficial | Catálogo oficial com mais de 15 mil capítulos em inglês. |
+| 4 | **One Piece Site Oficial** | https://one-piece.com/ | Site Oficial | Portal oficial com informações sobre o mangá e universo da obra. |
+| 5 | **One Piece Guia Oficial** | https://one-piece.com/op/guidetothevoyage/ | Site Oficial | Guia oficial sobre a criação e história do mangá. |
 
-**Nota:** Não foram utilizadas análises de fãs, teorias, vídeos de YouTube, fóruns ou qualquer conteúdo não oficial. Todo o conteúdo é extraído exclusivamente do mangá e materiais oficiais.
+**Nota:** O Notebook LM trabalha **exclusivamente** com as fontes fornecidas. Não há alucinação ou criação de conteúdo - tudo é baseado no material inserido.
 
 ---
 
 ## 🍖 ENGENHARIA DE PROMPTS E "CICATRIZES"
 
+### Metodologia de Criação
+
+O caderno temático foi desenvolvido utilizando o Notebook LM, alimentado exclusivamente com fontes oficiais do mangá. O processo envolveu:
+
+1. Upload das fontes no Notebook LM
+2. Geração de resumos automáticos
+3. Perguntas direcionadas ao conteúdo
+4. Criação de guias de estudo
+5. Refinamento dos prompts para extrair informações específicas
+
+---
+
+### Prompts Testados no Notebook LM
+
 ### Prompt 1: Levantamento Inicial
 
-**Prompt testado:**
+**Prompt:**
 > "Quais são os plot twists de One Piece?"
 
-**Resultado obtido:**
-A resposta misturou eventos confirmados com teorias de fãs, além de confundir anime com mangá.
+**Resultado com as fontes do Notebook LM:**
+O Notebook LM, com base nas fontes fornecidas (capítulos do mangá), apresentou apenas os eventos confirmados.
 
 **Problema identificado:**
-O prompt estava muito aberto, permitindo que a IA incluísse especulações não confirmadas.
+As fontes precisavam ser mais específicas para extrair todos os plot twists.
+
+**Ajuste realizado:**
+Refinei a curadoria de fontes para incluir capítulos específicos.
 
 **Prompt refinado:**
-> "Liste apenas os plot twists que ocorreram no mangá de One Piece, do capítulo 1 até o mais recente. Informe o capítulo exato de cada um e restrinja-se exclusivamente aos fatos presentes na obra."
-
-**Resultado do refinamento:**
-Obtive uma lista objetiva, contendo apenas as reviravoltas confirmadas no mangá, com capítulos específicos.
+> "Liste os plot twists que ocorreram no mangá de One Piece, do capítulo 1 ao mais recente. Inclua o capítulo exato de cada evento, com base no conteúdo fornecido."
 
 ---
 
 ### Prompt 2: Foreshadowing
 
-**Prompt testado:**
+**Prompt:**
 > "Quais foreshadowings o Oda deixou?"
 
-**Resultado obtido:**
-A resposta incluiu pistas que não estavam confirmadas no mangá, baseadas em teorias da comunidade.
+**Resultado com as fontes do Notebook LM:**
+O Notebook LM listou apenas os foreshadowings presentes nas fontes fornecidas.
 
-**Problema identificado:**
-A IA não distinguia entre pistas explícitas no mangá e suposições de fãs.
+**Ajuste realizado:**
+Incluí referências a pistas explícitas nos capítulos.
 
 **Prompt refinado:**
-> "Liste apenas os foreshadowings que estão explicitamente presentes no mangá de One Piece e que foram confirmados em capítulos posteriores. Especifique o capítulo da pista e o capítulo da revelação."
-
-**Resultado do refinamento:**
-A lista passou a conter apenas os foreshadowings efetivamente confirmados na obra, com a devida documentação de capítulos.
+> "Liste os foreshadowings que estão presentes nas fontes fornecidas e que foram confirmados em capítulos posteriores. Especifique o capítulo da pista e o capítulo da revelação."
 
 ---
 
 ### Prompt 3: Revelações de Identidade
 
-**Prompt testado:**
+**Prompt:**
 > "Quem é filho de quem em One Piece?"
 
-**Resultado obtido:**
-A resposta misturou revelações oficiais com suposições não confirmadas sobre parentescos.
-
-**Problema identificado:**
-Não havia distinção clara entre o que foi confirmado no mangá e o que é especulação.
+**Resultado com as fontes do Notebook LM:**
+A resposta foi baseada apenas nas informações disponíveis nas fontes oficiais.
 
 **Prompt refinado:**
-> "Liste apenas as revelações de parentesco que estão confirmadas no mangá de One Piece. Especifique o capítulo de cada revelação."
-
-**Resultado do refinamento:**
-Obtive uma relação objetiva contendo somente as confirmações oficiais presentes na obra.
+> "Liste as revelações de parentesco presentes nas fontes fornecidas do mangá de One Piece. Especifique o capítulo de cada revelação."
 
 ---
 
-### ⚔️ Cicatrizes (Dificuldades e Soluções)
+### ⚔️ Cicatrizes (Dificuldades e Soluções no Notebook LM)
 
 | Dificuldade Encontrada | Solução Aplicada |
 |------------------------|------------------|
-| A IA misturava teorias de fãs com fatos do mangá | Passei a solicitar confirmação por capítulo específico |
-| Eram incluídas pistas não validadas na obra | Passei a exigir que tanto a pista quanto a revelação tivessem capítulos documentados |
-| Havia confusão entre eventos do anime e do mangá | Passei a especificar claramente "somente o mangá" |
-| As respostas vinham extensas e sem organização | Passei a dividir o conteúdo por arcos narrativos |
-| Dificuldade em identificar o tipo de cada reviravolta | Criei uma classificação por tipo (Revelação, Morte, Traição, Transformação, etc.) |
+| O Notebook LM não encontrava informações específicas | Ampliei as fontes com capítulos mais detalhados |
+| As respostas eram muito genéricas | Refinei os prompts para serem mais específicos |
+| Dificuldade em identificar foreshadowings | Incluí fontes com pistas explícitas |
+| As fontes iniciais não cobriam todos os arcos | Adicionei mais fontes oficiais para cobrir a história completa |
 
 ---
 
 ## 🗺️ MINIGUIA DE ESTUDO - ENTREGA FINAL
 
-### 🔥 Resumos Estruturados
+### 🔥 Resumos Estruturados Gerados pelo Notebook LM
 
 #### Classificação dos Plot Twists por Tipo
 
@@ -180,10 +184,10 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-### 🧭 Glossário
+### 🧭 Glossário (Baseado nas Fontes do Mangá)
 
-| Termo | Definição (baseado no mangá) |
-|-------|------------------------------|
+| Termo | Definição (das fontes) |
+|-------|------------------------|
 | **Plot Twist** | Reviravolta na história que muda a direção ou percepção dos eventos |
 | **Foreshadowing** | Pista deixada pelo autor que se confirma em capítulos posteriores |
 | **D. (Will of D.)** | O "D." presente nos nomes de certos personagens, ligado a Joy Boy e Nika |
@@ -199,30 +203,31 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-### 🧭 Conjunto de Prompts Reutilizáveis
+### 🧭 Conjunto de Prompts Reutilizáveis para o Notebook LM
 
-"Analise o plot twist de [EVENTO] em One Piece. Inclua: personagens envolvidos, contexto, explicação detalhada, arcos envolvidos e tipo de reviravolta."
+"Analise o plot twist de [EVENTO] em One Piece com base nas fontes fornecidas. Inclua: personagens envolvidos, contexto, explicação detalhada, arcos envolvidos e tipo de reviravolta."
 
-"Liste todos os foreshadowings que levaram ao plot twist de [EVENTO] em One Piece. Especifique o capítulo da pista e o capítulo da revelação."
+"Liste todos os foreshadowings que levaram ao plot twist de [EVENTO] em One Piece, com base nas fontes disponíveis. Especifique o capítulo da pista e o capítulo da revelação."
 
-"Liste todos os plot twists que aconteceram no arco [NOME] de One Piece. Para cada um, informe personagens, contexto e capítulo."
+"Liste todos os plot twists que aconteceram no arco [NOME] de One Piece, de acordo com as fontes fornecidas. Para cada um, informe personagens, contexto e capítulo."
 
-"Confirme se [EVENTO] realmente aconteceu no capítulo [NÚMERO] de One Piece. Forneça o resumo do capítulo para verificação."
+"Confirme se [EVENTO] realmente aconteceu no capítulo [NÚMERO] de One Piece, verificando nas fontes disponíveis. Forneça o resumo do capítulo para verificação."
 
-"Classifique o plot twist de [EVENTO] em One Piece por tipo: Revelação de Identidade, Revelação de Poder, Morte, Traição, Revelação Histórica ou Parentesco."
+"Classifique o plot twist de [EVENTO] em One Piece por tipo, com base nas fontes fornecidas: Revelação de Identidade, Revelação de Poder, Morte, Traição, Revelação Histórica ou Parentesco."
 
-"Documente todas as revelações sobre a identidade ou linhagem de [PERSONAGEM] que foram confirmadas no mangá de One Piece."
+"Documente todas as revelações sobre a identidade ou linhagem de [PERSONAGEM] que estão confirmadas nas fontes do mangá de One Piece."
 
 ---
 
 ## ☠️ CONCLUSÃO
 
-Este caderno temático foi desenvolvido como uma **ferramenta de consulta** para:
-- Relembrar plot twists importantes com suas referências nos capítulos
-- Identificar foreshadowing em novas leituras
-- Entender a técnica narrativa de Eiichiro Oda
-- Ter referências rápidas para discussões ou estudos sobre a obra
-- Classificar diferentes tipos de reviravoltas para melhor compreensão
+Este caderno temático foi desenvolvido como uma **ferramenta de consulta** baseada no Notebook LM, com informações extraídas **exclusivamente das fontes oficiais fornecidas**.
+
+**Diferencial do Notebook LM:**
+- ✅ Trabalha **apenas com as fontes inseridas** - sem alucinação
+- ✅ Respostas **verificáveis** com citações das fontes
+- ✅ Geração automática de **guias de estudo, FAQs e timelines**
+- ✅ Facilidade para **atualizar e expandir** o conhecimento
 
 **Regras deste guia:**
 - Apenas eventos que aconteceram no mangá
@@ -232,14 +237,14 @@ Este caderno temático foi desenvolvido como uma **ferramenta de consulta** para
 
 ---
 
-## 💀 REFERÊNCIAS OFICIAIS
+## 💀 REFERÊNCIAS INSERIDAS NO NOTEBOOK LM
 
-1. One Piece - Mangá (Shonen Jump) - Capítulos 1 ao atual
-2. SBS - Seção de perguntas do autor nos volumes
-3. One Piece Magazine - Publicação oficial
-4. Vivre Cards - Dados oficiais dos personagens
-5. Databooks oficiais (One Piece Green, Blue, Yellow, etc.)
+1. **MANGA Plus by SHUEISHA** - https://mangaplus.shueisha.co.jp/updates
+2. **MANGA Plus App** - Android/iOS
+3. **Viz Media / Shonen Jump** - https://www.viz.com/shonenjump/
+4. **One Piece Site Oficial** - https://one-piece.com/
+5. **One Piece Guia Oficial** - https://one-piece.com/op/guidetothevoyage/
 
 ---
 
-**🏴‍☠️ Caderno de Bordo criado. Agora é só partir rumo ao One Piece.. Ele é real! e leve junto todos os segredos e informações extraídas diretamente do mangá!**
+**🏴‍☠️ Caderno de Bordo criado no Notebook LM. Agora é só partir rumo ao One Piece.. Ele é real! e levar junto todos os segredos e informações extraídas diretamente das fontes oficiais!**
