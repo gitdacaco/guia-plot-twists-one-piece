@@ -6,7 +6,7 @@
 
 **Obvious-no-mi aqui porém "Spoiler Alert"**
 
-**Aviso:** PERIGO NÃO ULTRAPASSE CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE POSSA ME ALMADIÇOAR.
+**Aviso: PERIGO! NÃO ULTRAPASSE.** ..CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE POSSA ME ALMADIÇOAR.
 
 **Nota de apelação em caso de ter recebido um:** espero que quem avalie não receba um tão profundo que possa desconsiderar o conceito por trás da obra.
 
