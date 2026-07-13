@@ -16,10 +16,7 @@
 
 🏴‍☠️ **Objetivo central do teste:** Entender o uso prático do Notebook LM enquanto crio um repositório confiavel de todas as tretas cabulosas do One Piece e entrego o projeto do Bootcamp Corpay.
 
-🏴‍☠️ **Ideação** : Validação de Plot Twists (Reviravoltas) em One Piece** - Diário de Bordo temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
-
-### Assunto de Interesse
-**Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
+🏴‍☠️ **Ideação/Assunto de Interesse** Validação de Plot Twists (Reviravoltas) em One Piece - Diário de Bordo/repositório temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá da obra One Piece e suas fontes oficiais.
 
 ### Objetivos do Caderno Temático
 1. Catalogar os principais plot twists que acontecem no mangá de One Piece
