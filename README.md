@@ -15,7 +15,7 @@
 ## 🏴‍☠️ CONTEXTO E OBJETIVOS
 
 ### Assunto de Interesse
-**Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá oficial.
+**Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
 
 ### Objetivos do Caderno Temático
 1. Catalogar os principais plot twists que acontecem no mangá de One Piece
