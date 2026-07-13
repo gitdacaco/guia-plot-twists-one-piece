@@ -6,7 +6,7 @@
 
 **Obvious-no-mi...** este documento contém Spoilers da Obra One Piece.
 
-**Aviso: NÃO ULTRAPASSE.** ..CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE POSSA ME AMALDIÇOAR.
+**Aviso: NÃO ULTRAPASSE.** ..CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE O INDUZA A ME AMALDIÇOAR..
 
 **Nota de apelação em caso de ter recebido um:** espero que quem avalie não receba um spoiler a ponto que o faça desconsiderar o conceito por trás da obra.
 
