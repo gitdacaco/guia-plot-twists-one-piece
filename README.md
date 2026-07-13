@@ -24,6 +24,7 @@
 3. Documentar as pistas (foreshadowing) que o autor deixou na própria obra
 4. Criar uma fonte de consulta rápida baseada exclusivamente no material original
 5. Desenvolver um método para identificar e classificar diferentes tipos de reviravoltas
+Coringa. Entregar o primeiro projeto do Bootcamp Corpay
 
 ---
 
