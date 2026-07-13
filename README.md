@@ -242,4 +242,5 @@ Este caderno temático foi desenvolvido como uma **ferramenta de consulta** para
 
 ---
 
-**🏴‍☠️ Caderno de Bordo criado. Agora é só partir rumo ao One Piece.. Ele é real! e leve junto todos os segredos e informações extraídas diretamente do mangá!**
+🏴‍☠️ Caderno de Bordo criado! Esta pronto para partir?? **O One Piece existe!** 
+...e leve junto todos os segredos e informações extraídas diretamente do mangá!
