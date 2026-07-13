@@ -2,11 +2,12 @@
 
 ---
 
-## 🔥🔥🔥 Alerta
+## Alerta 
 
-**Obvious-no-mi...** este documento contém Spoilers da Obra One Piece.
+🔥 **Obvious-no-mi...** este documento contém Spoilers da Obra One Piece.
 
-**Aviso: NÃO AVANCE.** Se você tem medo de spoilers que podem arrastar sua alma para um submundo de rancor e fazê-lo me amaldiçoar, pare aqui. **Nota aos avaliadores:** Espero que nenhum de vocês receba um spoiler a ponto de desconsiderar o conceito por trás do projeto.
+🔥🔥**Aviso: NÃO AVANCE.** Se você tem medo de spoilers que podem arrastar sua alma para um submundo de rancor e fazê-lo me amaldiçoar, pare aqui. 
+🔥🔥🔥**Nota aos avaliadores:** Espero que nenhum de vocês receba um spoiler a ponto de desconsiderar o conceito por trás do projeto.
 
 ---
 
