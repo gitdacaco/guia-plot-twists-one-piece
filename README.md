@@ -2,9 +2,9 @@
 
 ---
 
-## 🔥🔥🔥 DISCLAIMER
+## 🔥🔥🔥 Alerta
 
-**Obvious-no-mi** aqui porém "Spoiler Alert"
+**Obvious-no-mi** aqui contém "Spoiler Alert"
 
 **Aviso: PERIGO! NÃO ULTRAPASSE.** ..CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE POSSA ME ALMADIÇOAR.
 
@@ -13,6 +13,10 @@
 ---
 
 ## 🏴‍☠️ CONTEXTO E OBJETIVOS
+
+### **Objetivo central do teste: ** Entender funcionamento do Notebook LM enquanto crio um repositório confiavel de todas as tretas cabulosas do One Piece e entrego o projeto do Bootcamp Corpay 😬
+
+**Ideação** : Validação de Plot Twists (Reviravoltas) em One Piece** - Diário de Bordo temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
 
 ### Assunto de Interesse
 **Plot Twists (Reviravoltas) em One Piece** - Caderno temático desenvolvido no Notebook LM, com base **EXCLUSIVAMENTE** no mangá e suas fontes oficiais.
