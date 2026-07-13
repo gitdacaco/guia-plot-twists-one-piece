@@ -2,9 +2,9 @@
 
 ---
 
-## ⚠️ DISCLAIMER
+## 🔥🔥🔥 DISCLAIMER
 
-**Obvious-no-mi aqui porém "Spoiler Alert"**
+**Obvious-no-mi** aqui porém "Spoiler Alert"
 
 **Aviso: PERIGO! NÃO ULTRAPASSE.** ..CASO SOFRA COM POSSÍVEIS SPOILERS QUE VÃO LEVAR SUA ALMA PARA UM SUBMUNDO RANCOROSO QUE POSSA ME ALMADIÇOAR.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 CONTEXTO E OBJETIVOS
+## 🏴‍☠️ CONTEXTO E OBJETIVOS
 
 ### Assunto de Interesse
 **Plot Twists (Reviravoltas) em One Piece** - Uma análise documentada das reviravoltas presentes no mangá, com base APENAS no conteúdo oficial da obra.
@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 CURADORIA DE FONTES
+## 🛡️ CURADORIA DE FONTES
 
 **Todas as fontes são oficiais e baseadas no mangá:**
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔧 ENGENHARIA DE PROMPTS E "CICATRIZES"
+## 🍖 ENGENHARIA DE PROMPTS E "CICATRIZES"
 
 ### Prompt 1: Levantamento Inicial
 
@@ -101,7 +101,7 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-### 📋 Cicatrizes (Dificuldades e Soluções)
+### ⚔️ Cicatrizes (Dificuldades e Soluções)
 
 | Dificuldade Encontrada | Solução Aplicada |
 |------------------------|------------------|
@@ -113,9 +113,9 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-## 📖 MINIGUIA DE ESTUDO - ENTREGA FINAL
+## 🗺️ MINIGUIA DE ESTUDO - ENTREGA FINAL
 
-### 📌 Resumos Estruturados
+### 🔥 Resumos Estruturados
 
 #### Classificação dos Plot Twists por Tipo
 
@@ -130,7 +130,7 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-#### Principais Plot Twists por Arco
+#### Principais Plot Twists por Arco [SPOILER ALERT 🔥🔥🔥🔥🔥🔥]
 
 **East Blue (cap. 1-100):**
 - Luffy come a fruta do Shanks
@@ -180,7 +180,7 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-### 📌 Glossário
+### 🧭 Glossário
 
 | Termo | Definição (baseado no mangá) |
 |-------|------------------------------|
@@ -199,7 +199,7 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-### 📌 Conjunto de Prompts Reutilizáveis
+### 🧭 Conjunto de Prompts Reutilizáveis
 
 "Analise o plot twist de [EVENTO] em One Piece. Inclua: personagens envolvidos, contexto, explicação detalhada, arcos envolvidos e tipo de reviravolta."
 
@@ -215,7 +215,7 @@ Obtive uma relação objetiva contendo somente as confirmações oficiais presen
 
 ---
 
-## 🎯 CONCLUSÃO
+## ☠️ CONCLUSÃO
 
 Este caderno temático foi desenvolvido como uma **ferramenta de consulta** para:
 - Relembrar plot twists importantes com suas referências nos capítulos
@@ -232,7 +232,7 @@ Este caderno temático foi desenvolvido como uma **ferramenta de consulta** para
 
 ---
 
-## 🔗 REFERÊNCIAS OFICIAIS
+## 💀 REFERÊNCIAS OFICIAIS
 
 1. One Piece - Mangá (Shonen Jump) - Capítulos 1 ao atual
 2. SBS - Seção de perguntas do autor nos volumes
